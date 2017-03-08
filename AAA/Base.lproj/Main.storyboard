@@ -56,7 +56,7 @@
                                     </userDefinedRuntimeAttribute>
                                 </userDefinedRuntimeAttributes>
                                 <connections>
-                                    <segue destination="sNS-n9-xoq" kind="presentation" modalTransitionStyle="crossDissolve" id="oGc-ud-Qg3"/>
+                                    <segue destination="sNS-n9-xoq" kind="presentation" modalTransitionStyle="partialCurl" id="oGc-ud-Qg3"/>
                                 </connections>
                             </button>
                         </subviews>
